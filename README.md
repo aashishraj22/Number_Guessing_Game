@@ -1,1 +1,2 @@
 # Number_Guessing_Game
+This code is a simple Java program called "NumberGuessingGame". It allows users to play a number guessing game where they have to guess a randomly generated number between 1 and 100. After each guess, the program provides feedback on whether the guess was too high or too low, guiding the user towards the correct answer. Once the user guesses the correct number, the program congratulates them and terminates.
